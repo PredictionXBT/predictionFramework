@@ -21,6 +21,21 @@
 
 ---
 
+<h3 align="center">📡 Stay Connected</h3>
+
+<p align="center">
+  <a href="https://x.com/prediction_xbt">
+    <img src="https://img.shields.io/badge/Follow_us_on-𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow us on X">
+  </a>
+</p>
+
+<p align="center">
+  🤖 <strong>Tag @prediction_xbt on X to get alpha!</strong><br>
+  <a href="https://x.com/prediction_xbt">@prediction_xbt</a>
+</p>
+
+---
+
 <p align="center">
   <sub>Built with ❤️</sub>
 </p>
