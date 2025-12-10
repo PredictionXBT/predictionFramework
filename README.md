@@ -30,8 +30,8 @@
 </p>
 
 <p align="center">
-  🤖 <strong>Tag @prediction_xbt on X to get alpha!</strong><br>
-  <a href="https://x.com/prediction_xbt">@prediction_xbt</a>
+  🤖 <strong>Tag @predict_agent on X to get alpha!</strong><br>
+  <a href="https://x.com/predict_agent">@predict_agent</a>
 </p>
 
 ---
